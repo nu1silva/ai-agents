@@ -1,2 +1,2 @@
-# ai-agents
+# AI Agents
 Collection of AI Agents
